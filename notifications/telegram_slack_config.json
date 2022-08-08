@@ -4,7 +4,7 @@
     "environment": "PROD",
     "comment": "link to pull request",
     "reportLink": "",
-    "language": "ru",
+    "language": "en",
     "allureFolder": "allure-report/",
     "enableChart": true
   },
